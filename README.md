@@ -5,3 +5,4 @@ lead times by 15%, and enhancing both operational effectiveness and customer sat
 
 ∗ Developed and refined predictive models (Random Forest, XGBoost) with 97% accuracy, offering
 data-driven insights to optimize product availability and pricing strategies for startups.
+
